@@ -1,0 +1,934 @@
+{
+  "name": "mfe1",
+  "shared": [
+    {
+      "packageName": "@angular/animations",
+      "outFileName": "_angular_animations-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/animations/fesm2022/animations.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/animations/browser",
+      "outFileName": "_angular_animations_browser-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/animations/fesm2022/browser.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk",
+      "outFileName": "_angular_cdk-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/cdk.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/a11y",
+      "outFileName": "_angular_cdk_a11y-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/a11y.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/accordion",
+      "outFileName": "_angular_cdk_accordion-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/accordion.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/bidi",
+      "outFileName": "_angular_cdk_bidi-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/bidi.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/clipboard",
+      "outFileName": "_angular_cdk_clipboard-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/clipboard.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/coercion",
+      "outFileName": "_angular_cdk_coercion-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/coercion.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/collections",
+      "outFileName": "_angular_cdk_collections-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/collections.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/dialog",
+      "outFileName": "_angular_cdk_dialog-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/dialog.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/drag-drop",
+      "outFileName": "_angular_cdk_drag_drop-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/drag-drop.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/keycodes",
+      "outFileName": "_angular_cdk_keycodes-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/keycodes.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/layout",
+      "outFileName": "_angular_cdk_layout-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/layout.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/listbox",
+      "outFileName": "_angular_cdk_listbox-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/listbox.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/menu",
+      "outFileName": "_angular_cdk_menu-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/menu.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/observers",
+      "outFileName": "_angular_cdk_observers-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/observers.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/observers/private",
+      "outFileName": "_angular_cdk_observers_private-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/observers/private.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/overlay",
+      "outFileName": "_angular_cdk_overlay-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/overlay.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/platform",
+      "outFileName": "_angular_cdk_platform-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/platform.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/portal",
+      "outFileName": "_angular_cdk_portal-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/portal.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/scrolling",
+      "outFileName": "_angular_cdk_scrolling-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/scrolling.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/stepper",
+      "outFileName": "_angular_cdk_stepper-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/stepper.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/table",
+      "outFileName": "_angular_cdk_table-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/table.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/text-field",
+      "outFileName": "_angular_cdk_text_field-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/text-field.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/cdk/tree",
+      "outFileName": "_angular_cdk_tree-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/cdk/fesm2022/tree.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/common/fesm2022/common.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/common/fesm2022/http.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/compiler",
+      "outFileName": "_angular_compiler-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/compiler/fesm2022/compiler.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/core/fesm2022/core.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/core/fesm2022/primitives/signals.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/core/rxjs-interop",
+      "outFileName": "_angular_core_rxjs_interop-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/core/fesm2022/rxjs-interop.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout",
+      "outFileName": "_angular_flex_layout-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout/_private-utils",
+      "outFileName": "_angular_flex_layout__private_utils-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout-_private-utils.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout/core",
+      "outFileName": "_angular_flex_layout_core-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout-core.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout/extended",
+      "outFileName": "_angular_flex_layout_extended-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout-extended.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout/flex",
+      "outFileName": "_angular_flex_layout_flex-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout-flex.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout/grid",
+      "outFileName": "_angular_flex_layout_grid-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout-grid.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/flex-layout/server",
+      "outFileName": "_angular_flex_layout_server-15_0_0_beta_42-dev.js",
+      "requiredVersion": "^15.0.0-beta.42",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "15.0.0-beta.42",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/flex-layout/fesm2020/angular-flex-layout-server.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/forms",
+      "outFileName": "_angular_forms-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/forms/fesm2022/forms.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material",
+      "outFileName": "_angular_material-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/material.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/autocomplete",
+      "outFileName": "_angular_material_autocomplete-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/autocomplete.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/badge",
+      "outFileName": "_angular_material_badge-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/badge.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/bottom-sheet",
+      "outFileName": "_angular_material_bottom_sheet-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/bottom-sheet.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/button",
+      "outFileName": "_angular_material_button-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/button.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/button-toggle",
+      "outFileName": "_angular_material_button_toggle-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/button-toggle.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/card",
+      "outFileName": "_angular_material_card-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/card.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/checkbox",
+      "outFileName": "_angular_material_checkbox-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/checkbox.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/chips",
+      "outFileName": "_angular_material_chips-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/chips.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/core",
+      "outFileName": "_angular_material_core-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/core.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/datepicker",
+      "outFileName": "_angular_material_datepicker-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/datepicker.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/dialog",
+      "outFileName": "_angular_material_dialog-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/dialog.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/divider",
+      "outFileName": "_angular_material_divider-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/divider.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/expansion",
+      "outFileName": "_angular_material_expansion-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/expansion.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/form-field",
+      "outFileName": "_angular_material_form_field-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/form-field.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/grid-list",
+      "outFileName": "_angular_material_grid_list-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/grid-list.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/icon",
+      "outFileName": "_angular_material_icon-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/icon.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/input",
+      "outFileName": "_angular_material_input-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/input.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/list",
+      "outFileName": "_angular_material_list-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/list.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/menu",
+      "outFileName": "_angular_material_menu-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/menu.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/paginator",
+      "outFileName": "_angular_material_paginator-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/paginator.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/progress-bar",
+      "outFileName": "_angular_material_progress_bar-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/progress-bar.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/progress-spinner",
+      "outFileName": "_angular_material_progress_spinner-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/progress-spinner.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/radio",
+      "outFileName": "_angular_material_radio-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/radio.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/select",
+      "outFileName": "_angular_material_select-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/select.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/sidenav",
+      "outFileName": "_angular_material_sidenav-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/sidenav.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/slide-toggle",
+      "outFileName": "_angular_material_slide_toggle-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/slide-toggle.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/slider",
+      "outFileName": "_angular_material_slider-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/slider.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/snack-bar",
+      "outFileName": "_angular_material_snack_bar-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/snack-bar.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/sort",
+      "outFileName": "_angular_material_sort-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/sort.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/stepper",
+      "outFileName": "_angular_material_stepper-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/stepper.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/table",
+      "outFileName": "_angular_material_table-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/table.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/tabs",
+      "outFileName": "_angular_material_tabs-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/tabs.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/toolbar",
+      "outFileName": "_angular_material_toolbar-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/toolbar.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/tooltip",
+      "outFileName": "_angular_material_tooltip-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/tooltip.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/material/tree",
+      "outFileName": "_angular_material_tree-17_3_1-dev.js",
+      "requiredVersion": "^17.3.1",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/material/fesm2022/tree.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser",
+      "outFileName": "_angular_platform_browser-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser/animations",
+      "outFileName": "_angular_platform_browser_animations-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/platform-browser/fesm2022/animations.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser/animations/async",
+      "outFileName": "_angular_platform_browser_animations_async-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/platform-browser/fesm2022/animations/async.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser-dynamic",
+      "outFileName": "_angular_platform_browser_dynamic-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/platform-browser-dynamic/fesm2022/platform-browser-dynamic.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router-17_3_1-dev.js",
+      "requiredVersion": "^17.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/@angular/router/fesm2022/router.mjs"
+      }
+    },
+    {
+      "packageName": "rxjs",
+      "outFileName": "rxjs-7_8_1-dev.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/rxjs/dist/esm5/index.js"
+      }
+    },
+    {
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators-7_8_1-dev.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.1",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/rxjs/dist/esm5/operators/index.js"
+      }
+    },
+    {
+      "packageName": "tslib",
+      "outFileName": "tslib-2_6_2-dev.js",
+      "requiredVersion": "^2.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "2.6.2",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/node_modules/tslib/tslib.es6.mjs"
+      }
+    }
+  ],
+  "exposes": [
+    {
+      "key": "./Component",
+      "outFileName": "Component.js",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/src/app/main/guarentee-plataform/request-guarentee/request-guarentee.component.ts"
+      }
+    },
+    {
+      "key": "./loader",
+      "outFileName": "loader.js",
+      "dev": {
+        "entryPoint": "F:/RodrigoTV/project/MicorFrontEnd-beco/mf1-menuunico/mf1menuunico/src/app/common/components/loading-bar/loading-bar.component.ts"
+      }
+    }
+  ]
+}

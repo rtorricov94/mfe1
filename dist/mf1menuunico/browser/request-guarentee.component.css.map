@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/main/guarentee-plataform/request-guarentee/request-guarentee.component.scss"],
+  "sourcesContent": ["table {\r\n    width: 100%;\r\n  }\r\n  \r\n  .button-container {\r\n    padding-bottom: 16px;\r\n  }\r\n  \r\n \r\n"],
+  "mappings": ";AAAA;AACI,SAAA;;AAGF,CAAA;AACE,kBAAA;;",
+  "names": []
+}

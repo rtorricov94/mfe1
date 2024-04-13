@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/common/components/loading-bar/loading-bar.component.scss"],
+  "sourcesContent": ["mat-progress-bar{\r\n    color: #d32f2f;\r\n    background-color: rgb(243, 242, 242);\r\n}"],
+  "mappings": ";AAAA;AACI,SAAA;AACA,oBAAA,IAAA,GAAA,EAAA,GAAA,EAAA;;",
+  "names": []
+}

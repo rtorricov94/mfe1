@@ -1,0 +1,15 @@
+{
+  "hash": "f6fb55d8",
+  "configHash": "97fbcc62",
+  "lockfileHash": "73b44614",
+  "browserHash": "8542b897",
+  "optimized": {
+    "@angular-architects/native-federation": {
+      "src": "../../../../../node_modules/@angular-architects/native-federation/src/index.js",
+      "file": "@angular-architects_native-federation.js",
+      "fileHash": "cc9f3a3f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

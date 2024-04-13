@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/common/components/modal-closure/modal-closure.component.scss"],
+  "sourcesContent": [".custom-closure {\r\n    display: flex;\r\n    justify-content: center;\r\n    border-bottom: 0.5px solid #838181;\r\n    @media (min-width: 600px) {\r\n      justify-content: space-between;\r\n      align-items: center;\r\n    }\r\n  }"],
+  "mappings": ";AAAA,CAAA;AACI,WAAA;AACA,mBAAA;AACA,iBAAA,MAAA,MAAA;;AACA,OAAA,CAAA,SAAA,EAAA;AAJJ,GAAA;AAKM,qBAAA;AACA,iBAAA;;;",
+  "names": []
+}

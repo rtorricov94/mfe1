@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/main/guarentee-plataform/request-guarentee/form-request-guarentee/form-request-guarentee.component.scss"],
+  "sourcesContent": [".input-container mat-form-field + mat-form-field {\r\n    padding-left: 14px;\r\n  }\r\n  .table-container{\r\n    padding-top: 45px;\r\n  }\r\n  .table-responsive {\r\n    display: block;\r\n    width: 94%;\r\n    overflow-x: auto;\r\n    padding: 35px;\r\n   }\r\n   \r\n   mat-table {\r\n    width: 100%;\r\n    max-width: 100%;\r\n    margin-bottom: 1rem;\r\n    display: table;\r\n    border-collapse: collapse;\r\n    margin: 0px;\r\n   }\r\n   \r\n   mat-row,\r\n   mat-header-row {\r\n    display: table-row;\r\n   }\r\n   \r\n   mat-cell,\r\n   mat-header-cell {\r\n    word-wrap: initial;\r\n    display: table-cell;\r\n    padding: 0px 5px;\r\n    line-break: unset;\r\n    width: auto;\r\n    white-space: nowrap;\r\n    overflow: hidden;\r\n    vertical-align: middle;\r\n   }\r\n   .container-stepper{\r\n    padding-top: 25px;\r\n   }\r\n "],
+  "mappings": ";AAAA,CAAA,gBAAA,eAAA,EAAA;AACI,gBAAA;;AAEF,CAAA;AACE,eAAA;;AAEF,CAAA;AACE,WAAA;AACA,SAAA;AACA,cAAA;AACA,WAAA;;AAGD;AACC,SAAA;AACA,aAAA;AACA,iBAAA;AACA,WAAA;AACA,mBAAA;AACA,UAAA;;AAGD;AAAA;AAEC,WAAA;;AAGD;AAAA;AAEC,aAAA;AACA,WAAA;AACA,WAAA,IAAA;AACA,cAAA;AACA,SAAA;AACA,eAAA;AACA,YAAA;AACA,kBAAA;;AAED,CAAA;AACC,eAAA;;",
+  "names": []
+}

@@ -1,0 +1,9 @@
+.custom-closure {
+    display: flex;
+    justify-content: center;
+    border-bottom: 0.5px solid #838181;
+    @media (min-width: 600px) {
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
